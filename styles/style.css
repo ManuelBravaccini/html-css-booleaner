@@ -1,0 +1,25 @@
+#header_background{
+    width: 100%;
+    height: 175px;
+    background-image: url(../img/pattern.png);
+    background-color: cornflowerblue;
+}
+
+#logo{
+    width: 250px;
+    padding-top: 100px;
+}
+
+#title{
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+h2{
+    margin-top: 0%;
+    color: grey;
+}
+
+#the_booleaner{
+    color: deepskyblue;
+}
