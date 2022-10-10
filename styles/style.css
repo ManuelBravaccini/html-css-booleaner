@@ -17,9 +17,32 @@
 
 h2{
     margin-top: 0%;
+    font-size: 20px;
     color: grey;
 }
 
 #the_booleaner{
     color: deepskyblue;
+}
+
+ul{
+    padding-left: 20px;
+}
+
+table{
+    width: 100%;
+    text-align: left;
+}
+
+thead{
+    background-color: deepskyblue;
+    color: white;
+}
+
+th,td{
+    max-width: 350px;
+}
+
+.row1{
+    background-color: lightblue;
 }
